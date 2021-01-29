@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"AutoPlayer","h":"","u":""},{"l":"Card","h":"","u":""},{"l":"ManualPlayer","h":"","u":""},{"l":"Player","h":"","u":""},{"l":"Speed","h":"","u":""},{"l":"Card.Suit","h":"","u":""},{"l":"Table","h":"","u":""},{"l":"UserFrame","h":"","u":""},{"l":"すべてのクラス","h":"","u":"allclasses-index.html"}]
